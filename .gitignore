@@ -1,5 +1,7 @@
-
 # IntelliJ project files
 .idea
-out
-gen
+node_modules/
+vendor/
+logs/*
+!logs/README.md
+composer.lock
